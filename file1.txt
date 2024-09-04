@@ -1,11 +1,10 @@
 Hello
 Welcome
 123
-456
-234
 git 
 github
 All the best 
 Suely de Brito
 added from trainer
 123
+Added from student
